@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "rutracker.org",
+        "rutracker.cc",
+        "instagram.com",
+        "cdninstagram.com",
+        "imgschan.xyz",
+        "ntc.party",
+        "twitter.com",
+        "x.com",
+        "twimg.com",
+        "proton.me",
+        "openwrt.org",
+        "npcap.com",
+        "googlevideo.com",
+        "openai.com",
+        "chatgpt.com",
+        "oaistatic.com",
+        "gvt1.com",
+        "torproject.org",
+        "t.co",
+        "nyaa.land",
+        "ankiweb.net",
+        "deepl.com"
+      ],
+      "domain_regex": [
+        "^hen.\\.*",
+        "\\.hen.*\\.*"
+      ]
+    }
+  ]
+}

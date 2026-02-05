@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "4pda.ws",
+        "4pda.to",
+        "googleapis.com",
+        "mozilla.com",
+        "microsoft.com",
+        "apple.com",
+        "habr.com",
+        "habrastorage.org",
+        "viqeo.tv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "boosty.to",
+        "imgschan.xyz",
+        "twitter.com",
+        "x.com",
+        "instagram.com",
+        "cdninstagram.com",
+        "twimg.com",
+        "proton.me",
+        "googlevideo.com",
+        "gvt1.com",
+        "ntc.party",
+        "4pda.to",
+        "4pda.ws",
+        "t.co"
+      ],
+      "domain_regex": [
+        "\\.ru$",
+        "\\.su$",
+        "\\.xn--p1ai$",
+        "^hen.\\.*",
+        "\\.hen.*\\.*"
+      ]
+    }
+  ]
+}

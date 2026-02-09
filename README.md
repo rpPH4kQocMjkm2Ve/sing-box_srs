@@ -20,7 +20,7 @@ Compile all JSON rule sets into .srs binaries:
 
 This runs `sing-box rule-set compile` for each source file and places the output in srs/.
 
-**Requires** [sing-box](https://sing-box.sagernet.org/installation/) CLI in PATH.
+**Requires** [sing-box](https://sing-box.sagernet.org/installation/package-manager/) CLI in PATH.
 
 ## Structure
 

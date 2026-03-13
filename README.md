@@ -28,3 +28,6 @@ This runs `sing-box rule-set compile` for each source file and places the output
 - srs/*.srs — compiled binary rule sets
 - build.sh — compilation script
 
+## License
+
+AGPL-3.0-or-later

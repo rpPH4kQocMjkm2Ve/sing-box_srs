@@ -19,6 +19,16 @@
         "t.co",
         "arena.ai"
       ],
+      "domain_suffix": [
+        "sypexgeo.net",
+        "ifconfig.me",
+        "ifconfig.me",
+        "ipify.org",
+        "ip.sb",
+        "ipapi.is",
+        "iplocate.io"
+      ],
+      "domain": "checkip.amazonaws.com",
       "domain_regex": [
         "\\.ru$",
         "\\.su$",

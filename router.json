@@ -27,7 +27,7 @@
         "deepl.com"
       ],
       "domain_regex": [
-        "^hen.\\.*",
+        "^hen.*\\.*",
         "\\.hen.*\\.*"
       ]
     }
